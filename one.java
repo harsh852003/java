@@ -1,6 +1,6 @@
 // Your First Program
 
-public class SumOfNumbers1  
+public class one 
 {  
 public static void main(String args[])   
 {  
